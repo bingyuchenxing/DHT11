@@ -1,4 +1,4 @@
-//% color=#f44242 icon="\uf197" block="Let's Talk Science"
+//% color=#f44242 icon="\uf197" block="DHT11"
 namespace dht11 {
     let pin = DigitalPin.P0;
     function signal_dht11(pin: DigitalPin): void {
